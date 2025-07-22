@@ -10,7 +10,7 @@
 
 🎓 **Bachelor of Computer Applications** | **.NET Full Stack Developer** | **Angular Specialist** | **Cloud Enthusiast**  
 
-📍 **Lucknow, India** | 📧 **shraddhashukla327@gmail.com** | 📞 **+91 9335819172**  
+📍 **Lucknow, India** | 📧 **shraddhashukla327@gmail.com** |
 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shraddha-shukla-8534531bb) 
 🔗 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shraddha1711)  
