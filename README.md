@@ -1,7 +1,7 @@
 # Shraddha Shukla - .NET Full Stack Developer  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShraddhaShukla1711/ShraddhaShukla1711/main/.github/Shraddha_Banner_New.png" alt="Shraddha Shukla Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Shraddha1711/Shraddha1711/main/.github/Shraddha_Banner_New.png" alt="Shraddha Shukla Banner" width="100%"/>
 </p>
 ---
 
