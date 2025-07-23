@@ -61,29 +61,7 @@ Accomplished **.NET Full Stack Developer** with 2+ years of experience specializ
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
----
 
-### 🏆 Projects  
-
-#### **Bajaj MIS**  
-[![.NET](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/) 
-[![Angular](https://img.shields.io/badge/Angular-12+-red)](https://angular.io/)  
-- Developed comprehensive factory management system handling 500+ daily transactions  
-- Implemented Dapper ORM improving query performance by 65%  
-- Features: Production tracking, Quality control, Employee management  
-
-#### **Olympus Hospital Health Card**  
-[![.NET Core](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/) 
-[![Razorpay](https://img.shields.io/badge/Razorpay-API-green)](https://razorpay.com/)  
-- Built patient health card system with Razorpay integration processing ₹2M+ monthly  
-- Reduced payment processing time from 3 minutes to 30 seconds  
-
-#### **Mandi UP ERP**  
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC-yellow)](https://dotnet.microsoft.com/apps/aspnet)  
-- End-to-end ERP system with 12 modules serving 50+ businesses  
-- Automated 80% of manual processes in government offices  
-
----
 
 ### 📚 Education  
 **Nehru Gram Bharati University**  
